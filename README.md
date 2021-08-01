@@ -1,6 +1,8 @@
 # Repositório de códigos em Visual Basic 6
-Todos os programas desenvolvidos e disponibilizados nesse repositório foram desenvolvidos utilizando a linguagem Visual Basic 6. Foram desenvolvidos com objetivo de aprender mais sobre a linguagem e podem conter bugs.
-Os softwares disponibilizados aqui, provavelmente não sofrerão atualizações. Caso queira melhorar algum código que encontrou aqui, sinta-se livre.
+Todos os programas desenvolvidos e disponibilizados nesse repositório foram desenvolvidos utilizando a linguagem Visual Basic 6. 
+Desenvolvidos com o objetivo de aprender mais sobre a linguagem e podem conter bugs.
+Os softwares disponibilizados, provavelmente não sofrerão atualizações.
+Caso queira melhorar algum código que encontrou, sinta-se livre.
 
 ## Desenvolvido com
 
